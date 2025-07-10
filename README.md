@@ -1,87 +1,95 @@
-<h1 align="center"><b>Hola, soy Lionel Gutierrez</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9F&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Lionel+Gutierrez.;Diseño+y+Desarrollo+de+Software.;Frontend+%2F+Backend+Full+Stack+Developer.;Hacking+%7C+Next.js+%7C+Laravel+%7C+Spring+Boot.;¡Bienvenido+a+mi+universo+tech!👨‍💻" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://github.com/tuUsuario"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Diseño+y+Desarrollo+de+Software;Frontend+y+Backend+Developer;Apasionado+por+la+tecnología+y+el+aprendizaje;Inglés+%2F+Español;¡Bienvenido+a+mi+perfil!"></a>
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300" />
 </p>
 
-<br>
+---
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre mí**
+## 🧠 Sobre mí <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="270"/>
 
-- 💻 Estudiante de Ingeniería de Software  
-- 🌐 Desarrollador web full stack  
-- 🎯 Me gusta crear soluciones útiles y enfocadas en el usuario  
-- 📚 Siempre aprendiendo nuevas tecnologías  
-- 🌍 Idiomas: Español 🇵🇪 / Inglés (básico-intermedio)  
-- 🚀 Actualmente disponible para prácticas o colaboraciones  
-- 📄 Aquí está mi [CV](https://link-a-tu-cv.com) *(actualízalo con tu enlace)*
-
-<br><br>
+- 🎓 Estudiante de Ingeniería de Software  
+- 💡 Apasionado por construir soluciones digitales útiles  
+- 🌐 Frontend + Backend Developer (Full Stack)  
+- 🔐 Entusiasta de Ciberseguridad y Hacking Ético  
+- 💬 Idiomas: Español 🇵🇪 / Inglés (nivel intermedio)  
+- 📈 Siempre aprendiendo tecnologías emergentes  
+- 💼 Buscando oportunidades de prácticas o proyectos  
+- 📄 [Mi CV aquí](https://link-a-tu-cv.com) *(actualiza este link)*
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Tecnologías & Habilidades</b>
+## 💻 Tecnologías y Herramientas
 
-### 🔹 Lenguajes de Programación
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-### 🔹 Frameworks y Librerías
-
-![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F9322C.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔹 Herramientas y Otras Tecnologías
-
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,java,python,html,css,spring,laravel,django,nextjs,react,angular,tailwind,mysql,mongodb,git,github,vscode,postman,linux" />
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LionelUsuario&show_icons=true&theme=tokyonight&count_private=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LionelUsuario&layout=compact&theme=tokyonight" width="375"/>
-</div>
 
-*(Reemplaza `Lione313` con tu nombre de usuario real de GitHub)*
-
----
-
-## 🤝 ¡Conectemos!
-
-<ul>
-  <li><a href="https://linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Lionel%20Gutierrez-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
-  <li><a href="mailto:lionelgutierrez@gmail.com"><img src="https://img.shields.io/badge/Gmail-lionelgutierrez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></li>
-  <li><a href="https://twitter.com/tuusuario"><img src="https://img.shields.io/badge/Twitter-@tuusuario-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a></li>
-</ul>
-
----
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lione313&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=10&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lione313&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF" width="380"/>
   
-### السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ ✨
+  <br><br>
 
+  <img src="https://streak-stats.demolab.com/?user=Lione313&theme=radical&hide_border=true&border_radius=10&background=000000&ring=00FFFF&fire=FF4C29&currStreakLabel=00FFFF" width="750"/>
 </div>
 
 ---
 
-> ✏️ **Última edición**: Julio 2025  
-> 👤 **Autor**: [Lionel Gutierrez](https://github.com/Lione313)
+## 🚀 Proyectos Destacados
 
+📌 *Algunos proyectos en los que he trabajado:*
+
+- 💻 **DevPages** — Plataforma de landing pages modernas para negocios.
+- 🧬 **Rick & Morty API + Flutter App** — App para listar y crear personajes usando Laravel + Cloudinary.
+- 🌐 **CTK Personas LMS** — Sistema de aprendizaje con dashboard visual para usuarios.
+
+---
+
+## 🌐 Conectemos
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dilan-lionel-gutierrez-aimituma-ba63232a1/"><img src="https://img.shields.io/badge/LinkedIn-Dilan%20Lionel-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dilanaimituma@gmail.com"><img src="https://img.shields.io/badge/Gmail-dilanaimituma@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Lione313"><img src="https://img.shields.io/badge/GitHub-Lione313-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 👨‍💻 Mis motivaciones
+
+> “Construyo software con propósito. Cada línea de código es un paso hacia el futuro que quiero construir. 🚀”
+
+---
+
+## 🧠 Curiosidades Técnicas
+
+- 🔥 Me encanta aprender cosas como JWT, Docker, Kubernetes, CI/CD...
+- 🕶️ En mis tiempos libres practico CTFs y seguridad web.
+- 🌌 Sueño con lanzar mi propia suite de herramientas SaaS.
+  
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="280"/>
+</p>
+
+---
+
+## 🛸 السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+
+<div align="center"><b>Gracias por visitar mi perfil 🙌</b></div>
+
+---
+
+> 🕒 **Última actualización**: Julio 2025  
+> 🔖 **Autor**: [Lione313](https://github.com/Lione313)
