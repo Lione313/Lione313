@@ -19,7 +19,7 @@
 - 🚀 Siempre aprendiendo y mejorando  
 - ✉️ [dilanaimituma@gmail.com](mailto:dilanaimituma@gmail.com)  
 - 💼 [Mi LinkedIn](https://www.linkedin.com/in/dilan-lionel-gutierrez-aimituma-ba63232a1/)
-
+- 🌐 [Mi Portafolio](https://portafolio-lionel.vercel.app/)
 ---
 
 ## 💻 TECNOLOGÍAS Y HERRAMIENTAS
